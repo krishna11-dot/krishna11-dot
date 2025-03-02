@@ -34,7 +34,7 @@ Trying (and often failing) to explain what I do to my non-tech friends
 I'm always up for interesting conversations about AI, ethics & Law in technology, or just sharing learning resources. Feel free to reach out if you're working on something cool or have advice for someone starting in the field!
 
 📧 krishnanair041@gmail.com
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/krishna-nair-46621987/)
 
 "The measure of intelligence is the ability to change." — Albert Einstein
 <!---
