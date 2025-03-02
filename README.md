@@ -12,22 +12,17 @@ Learning how LLMs can transform businesses
 🔍 What I'm looking for
 I'm on the hunt for entry-level opportunities in:
 
-AI/ML Engineering
+ML Engineering
 Data Science
 Generative AI/Agentic AI Development
 
 🌱 Current learning journey
 
-Deep diving into reinforcement learning algorithms
+Deep diving into Agents and reinforcement learning algorithms
 Experimenting with prompt engineering techniques
-Building my own mini-projects to test new ideas
-Constantly refining my Python skills
+Constantly refining my Python skills with a focus on ML libraries like PyTorch and scikit-learn, while implementing various ML algorithms from scratch to understand their inner workings 
 Getting lost in Lex Fridman podcasts (currently obsessed with his conversations on AI alignment!)
 
-💻 Projects I've enjoyed working on
-MonReader: My first serious foray into computer vision - taught me that threshold tuning is both an art and a science!
-Multi-Agent Systems: Discovered that making AI agents cooperate is surprisingly similar to managing group projects in university.
-Bank Marketing Prediction: Where I learned that feature engineering is often more important than model selection.
 📚 When I'm not coding...
 
 Playing football (still waiting for my Premier League call up)
