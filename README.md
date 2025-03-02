@@ -12,22 +12,22 @@ Learning how LLMs can transform businesses
 🔍 What I'm looking for
 I'm on the hunt for entry-level opportunities in:
 
-ML Engineering
+ML/AI Engineering
 Data Science
 Generative AI/Agentic AI Development
 
 🌱 Current learning journey
 
-Deep diving into Agents and reinforcement learning algorithms
-Experimenting with prompt engineering techniques
-Constantly refining my Python skills with a focus on ML libraries like PyTorch and scikit-learn, while implementing various ML algorithms from scratch to understand their inner workings 
+Deep diving into Agents and reinforcement learning algorithms.
+Experimenting with prompt engineering techniques.
+Constantly refining my Python skills with a focus on ML libraries like PyTorch and scikit-learn, while implementing various ML algorithms from scratch to understand their inner workings.
 Getting lost in Lex Fridman podcasts (currently obsessed with his conversations on AI alignment!)
 
 📚 When I'm not coding...
 
-Playing football (still waiting for my Premier League call up)
-Hiking and exploring new trails (the Scottish Highlands were incredible!)
-Getting lost in thought while listening to tech and philosophy podcasts
+Playing football (still waiting for my Premier League call up).
+Hiking and exploring new trails (the aberdeenshire trail were incredible!).
+Getting lost in thought while listening to tech and philosophy podcasts.
 Trying (and often failing) to explain what I do to my non-tech friends
 
 🤝 Let's connect!
