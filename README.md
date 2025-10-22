@@ -4,6 +4,8 @@ Who am I?
 
 I'm an AI and machine learning enthusiast with a fresh MSc in Artificial Intelligence from the University of Aberdeen. Currently gaining hands on experience through my AI Residency at Apziva and Data Science Internship at Linen Labs Inc, but I'm actively seeking my first full-time role in this exciting field!
 
+Built this project recently, a production-ready system that detects AI-generated fake audio.Got hands-on with NeuTTS Air (a new TTS model) for generating the fake audio sample been diving deep into sequential data processing and getting hands-on experience optimizing CPU/GPU utilization, which has been eye-opening for understanding how to make ML models actually run efficiently.
+
 Currently building another POC besides Supply Chain agentic POC for my internship that uses NeuTTS Air for voice cloning and Wav2Lip to sync lips in videos. Works great for front-facing shots, but I discovered Wav2Lip struggles with profile/sideways faces where the lip sync ends up in the wrong position. Now figuring out how to handle different face orientations, which is turning into an interesting computer vision challenge!
 
 🚀 What I'm passionate about
