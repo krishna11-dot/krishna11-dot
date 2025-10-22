@@ -1,11 +1,13 @@
 Hi there, I'm Krishna 👋
 
 Who am I?
+
 I'm an AI and machine learning enthusiast with a fresh MSc in Artificial Intelligence from the University of Aberdeen. Currently gaining hands on experience through my AI Residency at Apziva and Data Science Internship at Linen Labs Inc, but I'm actively seeking my first full-time role in this exciting field!
 
 Currently building another POC besides Supply Chain agentic POC for my internship that uses NeuTTS Air for voice cloning and Wav2Lip to sync lips in videos. Works great for front-facing shots, but I discovered Wav2Lip struggles with profile/sideways faces where the lip sync ends up in the wrong position. Now figuring out how to handle different face orientations, which is turning into an interesting computer vision challenge!
 
 🚀 What I'm passionate about
+
 I'm fascinated by the potential of AI to solve real world problems. My journey so far has taken me through:
 
 Building ML models that actually work beyond the classroom as There's a big gap between "it works on my laptop" and "it works in production." I'm obsessed with bridging that gap.
