@@ -1,4 +1,5 @@
 Hi there, I'm Krishna 👋
+
 Who am I?
 I'm an AI and machine learning enthusiast with a fresh MSc in Artificial Intelligence from the University of Aberdeen. Currently gaining hands on experience through my AI Residency at Apziva and Data Science Internship at Linen Labs Inc, but I'm actively seeking my first full-time role in this exciting field!
 
