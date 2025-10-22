@@ -13,9 +13,9 @@ Currently building another POC besides Supply Chain agentic POC for my internshi
 I'm fascinated by the potential of AI to solve real world problems. My journey so far has taken me through:
 
 Building ML models that actually work beyond the classroom as There's a big gap between "it works on my laptop" and "it works in production." I'm obsessed with bridging that gap.
-Exploring the fascinating world of agentic AI systems Autonomous agents that can actually do things? Sign me up.
-Seeing computer vision applications come to life - There's something magical about teaching computers to see.
-Learning how LLMs can transform businesses - We're still figuring out what's possible here, and that's exciting.
+Exploring the fascinating world of agentic AI systems, Autonomous agents that can actually do things.
+Seeing computer vision applications come to life as there's something magical about teaching computers to see.
+Learning how LLMs can transform businesses.
 
 🔍 What I'm looking for
 I'm on the hunt for entry-level opportunities in:
@@ -39,8 +39,8 @@ The open-source ML community (y'all are amazing).
 Playing football (still waiting for my Premier League call up).
 Hiking and exploring new trails (the aberdeenshire trail were incredible!).
 Getting lost in thought while listening to tech and philosophy podcasts.
-🤔 Pondering questions like "what does AI alignment even mean?" over coffee
-😅 Trying (and often failing) to explain what I do to my non-tech friends
+Pondering questions like "what does AI alignment even mean?" over coffee.
+Trying (and often failing) to explain what I do to my non-tech friends.
 
 "So you teach computers to think?"
 "Not exactly..."
