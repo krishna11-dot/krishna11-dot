@@ -27,25 +27,38 @@ Generative AI/Agentic AI Development
 🌱 Current learning journey
 
 Deep diving into Agents and reinforcement learning algorithms.
+
 Experimenting with prompt engineering techniques(LLMs are weird and wonderful).
+
 Constantly refining my Python skills with a focus on ML libraries like PyTorch and scikit-learn.
+
 Implementing various ML algorithms from scratch to understand their inner workings (there's no substitute for building it yourself)
+
 Getting lost in Dwarkesh Patel and Lex Fridman podcasts.
+
 Random research papers that lead me down rabbit holes at 2 AM.
+
 The open-source ML community (y'all are amazing).
 
 📚 When I'm not coding...
 
 Playing football (still waiting for my Premier League call up).
-Hiking and exploring new trails (the aberdeenshire trail were incredible!).
-Getting lost in thought while listening to tech and philosophy podcasts.
-Pondering questions like "what does AI alignment even mean?" over coffee.
-Trying (and often failing) to explain what I do to my non-tech friends.
 
+Hiking and exploring new trails (the aberdeenshire trail were incredible!).
+
+Getting lost in thought while listening to tech and philosophy podcasts.
+
+Pondering questions like "what does AI alignment even mean?" over coffee.
+
+Trying (and often failing) to explain what I do to my non-tech friends-
 "So you teach computers to think?"
+
 "Not exactly..."
+
 15 minutes later
+
 "So... you teach computers to think?"
+
 "Close enough."
 
 🤝 Let's connect!
