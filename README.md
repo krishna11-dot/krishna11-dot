@@ -56,8 +56,8 @@ properly. Building reference datasets, defining metrics around real failure
 patterns rather than generic ones, and tracing input and output at every step 
 so you can actually see where things go wrong.
 
-**Open-source ML community.** Part of a collaborative learning group working 
-through gradient boosting, ensemble methods, regularisation and production AI 
+**Open-source ML/AI community.** Part of a collaborative learning group working 
+through gradient boosting, ensemble methods, regularisation, AI agentic
 patterns together.
 
 **Production ML.** FastAPI, PostgreSQL, APScheduler, tmux. The unglamorous 
