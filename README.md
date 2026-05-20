@@ -60,8 +60,7 @@ so you can actually see where things go wrong.
 through gradient boosting, ensemble methods, regularisation, AI agentic
 patterns together.
 
-**Production ML.** FastAPI, PostgreSQL, APScheduler, tmux. The unglamorous 
-stuff that makes things actually run.
+**Production ML.** FastAPI, PostgreSQL, APScheduler, tmux, GitHub Actions for CI/CD, GCP for cloud deployment. The unglamorous stuff that makes things actually run.
 
 ## 📚 What I'm reading and listening to
 
