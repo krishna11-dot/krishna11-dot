@@ -66,7 +66,7 @@ stuff that makes things actually run.
 ## 📚 What I'm reading and listening to
 
 Dwarkesh Patel and Lex Fridman podcasts. Research papers that pull me down 
-rabbit holes at 2am. The open-source community who shares everything freely.
+rabbit holes at 2am. The open-source community who shares everything freely.Currently reading The Alignment problem by Brian Christian.
 
 ## 📚 Outside of work
 
